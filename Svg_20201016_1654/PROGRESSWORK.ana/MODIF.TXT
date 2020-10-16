@@ -1,0 +1,11 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Utilisatteur		NFI		nouveau fichier
+Niveau		NFI		nouveau fichier
+Categories		NFI		nouveau fichier
+Autorisation		NFI		nouveau fichier
+Conges		NFI		nouveau fichier
+Contrainte_Utilisatteur_Conges		NWL	Utilisatteur (IDUtilisatteur) et Conges (IDUtilisatteur)	Nouvelle liaison entre les fichiers Utilisatteur (IDUtilisatteur) et Conges (IDUtilisatteur)
+Contrainte_Utilisatteur_Autorisation		NWL	Utilisatteur (IDUtilisatteur) et Autorisation (IDUtilisatteur)	Nouvelle liaison entre les fichiers Utilisatteur (IDUtilisatteur) et Autorisation (IDUtilisatteur)
+Contrainte_Categories_Utilisatteur		NWL	Categories (IDCategories) et Utilisatteur (IDCategories)	Nouvelle liaison entre les fichiers Categories (IDCategories) et Utilisatteur (IDCategories)
+Contrainte_Niveau_Utilisatteur		NWL	Niveau (IDNiveau) et Utilisatteur (IDNiveau)	Nouvelle liaison entre les fichiers Niveau (IDNiveau) et Utilisatteur (IDNiveau)
+ConnexionProgressWork		CNX+		
